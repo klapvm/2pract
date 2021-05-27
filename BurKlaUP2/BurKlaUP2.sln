@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurKlaUP2", "BurKlaUP2.csproj", "{43188F73-2F87-4190-9C2A-69DF7BA1964B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43188F73-2F87-4190-9C2A-69DF7BA1964B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43188F73-2F87-4190-9C2A-69DF7BA1964B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43188F73-2F87-4190-9C2A-69DF7BA1964B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43188F73-2F87-4190-9C2A-69DF7BA1964B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A52F7C7F-0900-4F62-B792-DD1E06FDA9AA}
+	EndGlobalSection
+EndGlobal
